@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ROT13
 {
-    internal class Program
+    internal class Rot13
     {
         static char[] Alph = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
         static void Main(string[] args)
