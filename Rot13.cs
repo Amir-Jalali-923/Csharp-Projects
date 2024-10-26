@@ -50,7 +50,7 @@ namespace ROT13
                 Index++;
             }
 
-            //we use -1 as an error code
+            // -1 is an error code
             return -1;
         }
     }
